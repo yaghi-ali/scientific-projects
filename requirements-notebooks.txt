@@ -1,0 +1,6 @@
+-r requirements.txt
+nbformat>=5.9
+nbclient>=0.9
+ipykernel>=6
+qiskit>=2,<3
+qiskit-aer>=0.17,<0.18
